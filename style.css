@@ -1,3 +1,165 @@
+
+@font-face {
+    font-family: "Logo";
+    src: url("./fonts/Library3am-5V3Z.otf");
+}
+
+
 body {
-    background-color: #f6f7eb;
+    background-color: #d8d4c6;
+    font-family: 'Source Code Pro';
+    font-weight: 600;
+    margin: 0px;
+    color: #2a2b2a;
+    border-color: #2a2b2a;
+}
+
+h1 {
+    font-family: "Logo";
+    font-size: 6vmax;
+    margin:0px;
+}
+
+.header_title{
+    white-space: nowrap;
+    margin-left: 2vw;
+    margin-right: 2vw;
+    flex-grow: 4;
+    font-family: "Logo";
+    font-size: 6vmax;
+    margin:0px;
+}
+
+.header_title:link {
+    text-decoration: none;
+    color: #2a2b2a;
+}
+
+.header_title:visited {
+    text-decoration: none;
+    color: #2a2b2a;
+}
+
+.header_title:hover {
+    text-decoration: none;
+    color: #2a2b2a;
+    background-color: #f4f1ea;
+}
+
+.header_title:active {
+    text-decoration: none;
+    color: #2a2b2a;
+    background-color: #f4f1ea;
+}
+
+.page_header {
+    background-color: #f0feff;
+    border-width: 0px;
+    border-bottom: 8px;
+    border-color: #2a2b2a;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+}
+
+.header_buttons{
+    display: flex;
+    flex-direction: row;
+}
+
+.header_button {
+    font-weight: 600;
+    float: right;
+    font-size: 2vmin;
+    border-width: 0px;
+    border-left: 8px;
+    border-color: #2a2b2a;
+    border-style: solid;
+    min-width: 10vw;
+    text-align: center;
+    align-content: center;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    color: #2a2b2a;
+    position: relative;
+    flex-grow: 2;
+    min-height: 3em;
+}
+
+.header_button:link {
+    text-decoration: none;
+    color: #2a2b2a;
+}
+
+.header_button:visited {
+    text-decoration: none;
+    color: #2a2b2a;
+}
+
+.header_button:hover {
+    text-decoration: none;
+    color: #2a2b2a;
+    background-color: #f4f1ea;
+}
+
+.header_button:active {
+    text-decoration: none;
+    color: #2a2b2a;
+    background-color: #f4f1ea;
+}
+
+
+.bio_div{
+    background-color: #f0feff;
+    border-width: 8px;
+    border-style: solid;
+    display: flex;
+    flex-direction: row-reverse;
+    max-width: 60vw;
+    margin-left: 20vw;
+    margin-top: 2vh;
+    padding-left: 2vw;
+}
+
+.img_holder{
+    width: 20vw;
+}
+
+.bio_img{
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+.bio_text{
+    max-width: 40vw;
+    padding-right: 2vw;
+    padding-top: 2vh;
+}
+
+
+
+@media (max-width: 1200px) {
+    .page_header {
+        flex-direction: column;
+    }
+    
+    .header_buttons { 
+        border-width: 0px;
+        border-top: 8px;
+        border-right: 8px;
+        border-style: solid;
+    }
+
+    .bio_div{
+        flex-direction: column;
+    }
+
+    .bio_text{
+        max-width: 100%;
+    }
+    .img_holder{
+        width: 80%;
+        align-self: center;
+    }
 }
