@@ -121,6 +121,18 @@ h1 {
     padding-left: 2vw;
 }
 
+.soundcloud_div{
+    background-color: #f0feff;
+    border-width: 8px;
+    border-style: solid;
+    display: flex;
+    flex-direction: row-reverse;
+    max-width: 60vw;
+    margin-left: 2vw;
+    margin-top: 2vh;
+    padding-left: 2vw;
+}
+
 .img_holder{
     width: 20vw;
 }
