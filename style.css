@@ -128,9 +128,7 @@ h1 {
     display: flex;
     flex-direction: row-reverse;
     max-width: 80vw;
-    margin-left: 20vw;
     margin-top: 2vh;
-    padding-left: 2vw;
 }
 
 .img_holder{
