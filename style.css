@@ -260,6 +260,10 @@ h1 {
     width: 20vw;
 }
 
+.video_holder{
+    width: 10vw;
+}
+
 .bio_img{
     display: block;
     height: auto;
