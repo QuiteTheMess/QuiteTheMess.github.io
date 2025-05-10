@@ -253,7 +253,7 @@ h1 {
     border-style: solid;
     display: flex;
     flex-direction: row-reverse;
-    max-width: 100%
+    max-width: 100%;
     margin-top: 2vh;
 }
 
