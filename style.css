@@ -255,6 +255,7 @@ h1 {
     flex-direction: row-reverse;
     max-width: 100%;
     margin-top: 2vh;
+    margin-bottom:2vh;
 }
 
 .img_holder{
