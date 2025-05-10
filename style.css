@@ -71,7 +71,6 @@ h1 {
     font-weight: 600;
     float: right;
     font-size: 2vmin;
-    font-palette: #E94F37;
     border-width: 0px;
     border-left: 8px;
     border-color: #2a2b2a;
@@ -91,7 +90,6 @@ h1 {
     font-weight: 600;
     float: right;
     font-size: 2vmin;
-    font-palette: #3F88C5;
     border-width: 0px;
     border-left: 8px;
     border-color: #2a2b2a;
@@ -111,7 +109,6 @@ h1 {
     font-weight: 600;
     float: right;
     font-size: 2vmin;
-    font-palette: #44BBA4;
     border-width: 0px;
     border-left: 8px;
     border-color: #2a2b2a;
@@ -131,7 +128,6 @@ h1 {
     font-weight: 600;
     float: right;
     font-size: 2vmin;
-    font-palette: #8380b6;
     border-width: 0px;
     border-left: 8px;
     border-color: #2a2b2a;
@@ -252,6 +248,7 @@ h1 {
     border-width: 8px;
     border-style: solid;
     align-content: center;
+
     display: flex;
     flex-direction: row;
     max-width: 100%;
