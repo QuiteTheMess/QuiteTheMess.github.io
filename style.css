@@ -254,7 +254,6 @@ h1 {
     display: flex;
     flex-direction: row-reverse;
     max-width: 100%;
-    margin-right: 10vw;
     margin-top: 2vh;
     margin-bottom:2vh;
 }
