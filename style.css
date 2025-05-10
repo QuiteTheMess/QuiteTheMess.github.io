@@ -67,10 +67,11 @@ h1 {
     flex-direction: row;
 }
 
-.header_button {
+.header_button1 {
     font-weight: 600;
     float: right;
     font-size: 2vmin;
+    font-palette: #E94F37;
     border-width: 0px;
     border-left: 8px;
     border-color: #2a2b2a;
@@ -86,28 +87,153 @@ h1 {
     min-height: 3em;
 }
 
-.header_button:link {
+.header_button2 {
+    font-weight: 600;
+    float: right;
+    font-size: 2vmin;
+    font-palette: #3F88C5;
+    border-width: 0px;
+    border-left: 8px;
+    border-color: #2a2b2a;
+    border-style: solid;
+    min-width: 10vw;
+    text-align: center;
+    align-content: center;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    color: #2a2b2a;
+    position: relative;
+    flex-grow: 2;
+    min-height: 3em;
+}
+
+.header_button3 {
+    font-weight: 600;
+    float: right;
+    font-size: 2vmin;
+    font-palette: #44BBA4;
+    border-width: 0px;
+    border-left: 8px;
+    border-color: #2a2b2a;
+    border-style: solid;
+    min-width: 10vw;
+    text-align: center;
+    align-content: center;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    color: #2a2b2a;
+    position: relative;
+    flex-grow: 2;
+    min-height: 3em;
+}
+
+.header_button4 {
+    font-weight: 600;
+    float: right;
+    font-size: 2vmin;
+    font-palette: #8380b6;
+    border-width: 0px;
+    border-left: 8px;
+    border-color: #2a2b2a;
+    border-style: solid;
+    min-width: 10vw;
+    text-align: center;
+    align-content: center;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    color: #2a2b2a;
+    position: relative;
+    flex-grow: 2;
+    min-height: 3em;
+}
+
+.header_button1:link {
     text-decoration: none;
     color: #2a2b2a;
 }
 
-.header_button:visited {
+.header_button1:visited {
     text-decoration: none;
     color: #2a2b2a;
 }
 
-.header_button:hover {
+.header_button1:hover {
     text-decoration: none;
     color: #2a2b2a;
     background-color: #f4f1ea;
 }
 
-.header_button:active {
+.header_button1:active {
     text-decoration: none;
     color: #2a2b2a;
     background-color: #f4f1ea;
 }
 
+.header_button2:link {
+    text-decoration: none;
+    color: #2a2b2a;
+}
+
+.header_button2:visited {
+    text-decoration: none;
+    color: #2a2b2a;
+}
+
+.header_button2:hover {
+    text-decoration: none;
+    color: #2a2b2a;
+    background-color: #f4f1ea;
+}
+
+.header_button2:active {
+    text-decoration: none;
+    color: #2a2b2a;
+    background-color: #f4f1ea;
+}
+
+.header_button3:link {
+    text-decoration: none;
+    color: #2a2b2a;
+}
+
+.header_button3:visited {
+    text-decoration: none;
+    color: #2a2b2a;
+}
+
+.header_button3:hover {
+    text-decoration: none;
+    color: #2a2b2a;
+    background-color: #f4f1ea;
+}
+
+.header_button3:active {
+    text-decoration: none;
+    color: #2a2b2a;
+    background-color: #f4f1ea;
+}
+
+.header_button4:link {
+    text-decoration: none;
+    color: #2a2b2a;
+}
+
+.header_button4:visited {
+    text-decoration: none;
+    color: #2a2b2a;
+}
+
+.header_button4:hover {
+    text-decoration: none;
+    color: #2a2b2a;
+    background-color: #f4f1ea;
+}
+
+.header_button4:active {
+    text-decoration: none;
+    color: #2a2b2a;
+    background-color: #f4f1ea;
+}
 
 .bio_div{
     background-color: #f0feff;
