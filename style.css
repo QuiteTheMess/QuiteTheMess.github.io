@@ -14,6 +14,22 @@ body {
     border-color: #2a2b2a;
 }
 
+.content1 {
+    color:#E94F37;
+}
+
+.content2 {
+    color:#3F88C5;
+}
+
+.content3 {
+    color: #44BBA4;
+}
+
+.content4 {
+    color:#8380b6;
+}
+
 h1 {
     font-family: "Logo";
     font-size: 6vmax;
