@@ -295,6 +295,7 @@ h1 {
 }
 
 .bio_text1 em{
+    padding-right: -2vw;
     color: #79757e;
 }
 
@@ -305,6 +306,7 @@ h1 {
 }
 
 .bio_text2 em{
+    padding-right: -2vw;
     color: #E94F37;
 }
 
@@ -315,6 +317,7 @@ h1 {
 }
 
 .bio_text3 em{
+    padding-right: -2vw;
     color: #3F88C5;
 }   
 
@@ -325,6 +328,7 @@ h1 {
 }
 
 .bio_text4 em{
+    padding-right: -2vw;
     color: #44BBA4;
 }
 
@@ -335,6 +339,7 @@ h1 {
 }
 
 .bio_text5 em{
+    padding-right: -2vw;
     color: #8380b6;
 }
 
