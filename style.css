@@ -295,9 +295,6 @@ h1 {
 }
 
 .bio_text1 em{
-    max-width: 40vw;
-    padding-right: 2vw;
-    padding-top: 2vh;
     color: #79757e;
 }
 
@@ -308,9 +305,6 @@ h1 {
 }
 
 .bio_text2 em{
-    max-width: 40vw;
-    padding-right: 2vw;
-    padding-top: 2vh;
     color: #E94F37;
 }
 
@@ -321,9 +315,6 @@ h1 {
 }
 
 .bio_text3 em{
-    max-width: 40vw;
-    padding-right: 2vw;
-    padding-top: 2vh;
     color: #3F88C5;
 }   
 
@@ -334,9 +325,6 @@ h1 {
 }
 
 .bio_text4 em{
-    max-width: 40vw;
-    padding-right: 2vw;
-    padding-top: 2vh;
     color: #44BBA4;
 }
 
@@ -347,9 +335,6 @@ h1 {
 }
 
 .bio_text5 em{
-    max-width: 40vw;
-    padding-right: 2vw;
-    padding-top: 2vh;
     color: #8380b6;
 }
 
@@ -422,7 +407,7 @@ h1 {
     .bio_text5{
         max-width: 100%;
     }
-    
+
     .img_holder{
         width: 80%;
         align-self: center;
