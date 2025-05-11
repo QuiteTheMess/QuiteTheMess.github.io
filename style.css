@@ -272,7 +272,7 @@ h1 {
     border-width: 8px;
     border-style: solid;
     display: flex;
-    align-self: center;
+    align-content: center;
     flex-direction: row;
     max-width: 100%;
     margin-top: 2vh;
@@ -305,7 +305,6 @@ h1 {
 .column {
   flex: 25%;
   max-width: 25%;
-  align-content: center;
   padding: 0 4px;
 }
 
