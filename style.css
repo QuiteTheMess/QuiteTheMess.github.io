@@ -280,7 +280,7 @@ h1 {
     border-style: solid;
     display: flex;
     flex-direction: row-reverse;
-    align-self: center;
+    align-content: center;
     max-width: 60vw;
     margin-left: 20vw;
     margin-top: 2vh;
@@ -296,7 +296,7 @@ h1 {
     border-style: solid;
     display: flex;
     flex-direction: row-reverse;
-    text-align:center;
+    align-content:center;
     max-width: 60vw;
     margin-left: 20vw;
     margin-top: 2vh;
