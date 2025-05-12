@@ -345,6 +345,7 @@ h1 {
     max-width: 40vw;
     padding-right: 2vw;
     padding-top: 2vh;
+    padding-bottom: 2vh;
 }
 
 .bio_text2 em{
@@ -357,6 +358,7 @@ h1 {
     max-width: 40vw;
     padding-right: 2vw;
     padding-top: 2vh;
+    padding-bottom: 2vh;
 }
 
 .bio_text3 em{
@@ -369,6 +371,7 @@ h1 {
     max-width: 40vw;
     padding-right: 2vw;
     padding-top: 2vh;
+    padding-bottom: 2vh;
 }
 
 .bio_text4 em{
@@ -387,6 +390,7 @@ h1 {
     font-style: normal;
     padding-right: -2vw;
     color: #8380b6;
+    padding-bottom: 2vh;
 }
 
 .row {
