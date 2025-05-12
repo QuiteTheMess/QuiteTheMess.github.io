@@ -441,7 +441,7 @@ h1 {
     }
 
     .reg_div{
-        flex-direction: row;
+        flex-direction: column;
     }
 
     .bio_text1{
