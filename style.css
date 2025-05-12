@@ -269,7 +269,7 @@ h1 {
     display: flex;
     flex-direction: row-reverse;
     max-width: 60vw;
-    margin-left: 20vw;
+    margin-left: 15vw;
     margin-top: 2vh;
     padding-left: 2vw;
 }
@@ -281,7 +281,7 @@ h1 {
     display: flex;
     flex-direction: row-reverse;
     max-width: 60vw;
-    margin-left: 20vw;
+    margin-left: 15vw;
     margin-top: 2vh;
     padding-left: 1vw;
     padding-right: 1vw;
@@ -297,7 +297,7 @@ h1 {
     flex-direction: row-reverse;
     text-align:center;
     max-width: 60vw;
-    margin-left: 20vw;
+    margin-left: 15vw;
     margin-top: 2vh;
     padding-left: 2vw;
 }
