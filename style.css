@@ -310,6 +310,7 @@ h1 {
 .reg_text{
     max-width: 40vw;
     padding-top:2vh;
+    text-align:center;
 }
 
 .bio_text1{
