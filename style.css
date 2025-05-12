@@ -274,6 +274,18 @@ h1 {
     padding-left: 2vw;
 }
 
+.reg_div{
+    background-color: #f0feff;
+    border-width: 8px;
+    border-style: solid;
+    display: flex;
+    flex-direction: row-reverse;
+    max-width: 60vw;
+    margin-left: 20vw;
+    margin-top: 2vh;
+    padding-left: 2vw;
+}
+
 .soundcloud_div{
     background-color: #f0feff;
     border-width: 8px;
@@ -293,6 +305,10 @@ h1 {
     display: block;
     height: auto;
     width: 100%;
+}
+
+.reg_text{
+    max-width: 40vw;
 }
 
 .bio_text1{
@@ -403,6 +419,10 @@ h1 {
 
     .bio_div{
         flex-direction: column;
+    }
+
+    .reg_div{
+        flex-direction: row;
     }
 
     .bio_text1{
