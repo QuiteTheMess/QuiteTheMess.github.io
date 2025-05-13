@@ -449,22 +449,32 @@ h1 {
 
     .bio_text1{
         max-width: 100%;
+        padding-top: 0vh;
+        padding-bottom: 0vh;
     }
 
     .bio_text2{
         max-width: 100%;
+        padding-top: 0vh;
+        padding-bottom: 0vh;
     }
 
     .bio_text3{
         max-width: 100%;
+        padding-top: 0vh;
+        padding-bottom: 0vh;
     }
 
     .bio_text4{
         max-width: 100%;
+        padding-top: 0vh;
+        padding-bottom: 0vh;
     }
 
     .bio_text5{
         max-width: 100%;
+        padding-top: 0vh;
+        padding-bottom: 0vh;
     }
 
     .img_holder{
