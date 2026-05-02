@@ -306,10 +306,11 @@ h1 {
     border-width: 8px;
     border-style: solid;
     display: flex;
-    flex-direction: column;
+    flex-direction: row-reverse;
     max-width: 100%;
+    margin-left: 20vw;
     margin-top: 2vh;
-    margin-bottom:2vh;
+    padding-left: 2vw;
 }
 
 .img_holder{
