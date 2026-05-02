@@ -285,7 +285,17 @@ h1 {
     margin-top: 2vh;
 }
 
-
+.bio_div3{
+    background-color: #f0feff;
+    border-width: 8px;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    max-width: 60vw;
+    margin-left: 19vw;
+    margin-top: 2vh;
+    padding-left: 2vw;
+}
 
 .reg_div{
     background-color: #f0feff;
