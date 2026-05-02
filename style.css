@@ -292,7 +292,7 @@ h1 {
     border-width: 8px;
     border-style: solid;
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     align-content: center;
     max-width: 60vw;
     margin-left: 18vw;
