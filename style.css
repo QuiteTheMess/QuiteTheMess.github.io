@@ -312,12 +312,25 @@ h1 {
     margin-bottom: 2vh;
 }
 
+.images_div{
+    background-color: #f0feff;
+    border-width: 8px;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    padding-left: 2vw;
+}
+
 .soundeffect_div{
     background-color: #f0feff;
     border-width: 8px;
     border-style: solid;
     display: flex;
     flex-direction: row;
+    align-content:center;
     max-width: 60vw;
     margin-left: 20vw;
     margin-top: 2vh;
