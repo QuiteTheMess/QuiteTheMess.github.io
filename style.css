@@ -308,8 +308,8 @@ h1 {
     display: flex;
     flex-direction: row;
     max-width: 100%;
-    margin-left: 20vw;
     margin-top: 2vh;
+    margin-bottom: 2vh;
 }
 
 .img_holder{
